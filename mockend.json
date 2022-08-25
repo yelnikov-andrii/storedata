@@ -1,5 +1,6 @@
 [
   {
+    "__typename": "Category",
     "name": "all",
     "products": [
       {
@@ -759,6 +760,7 @@
     ]
   },
   {
+    "__typename": "Category",
     "name": "clothes",
     "products": [
       {
@@ -948,6 +950,7 @@
     ]
   },
   {
+    "__typename": "Category",
     "name": "tech",
     "products": [
       {
