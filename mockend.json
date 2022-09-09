@@ -1501,6 +1501,188 @@
         }
       ]
     }
+  ],
+  "medicines": [
+    {
+      "category": "antigystaminic",
+      "name": "Лоратадин",
+      "id": "Loratadin-01"
+    },
+    {
+      "category": "antigystaminic",
+      "name": "Діазолін",
+      "id": "diazolin-01"
+    },
+    {
+      "category": "antigystaminic",
+      "name": "Цетрин",
+      "id": "cetrin-01"
+    },
+    {
+      "category": "antigystaminic",
+      "name": "Едем",
+      "id": "edem-01"
+    },
+    {
+      "category": "antigystaminic",
+      "name": "Супрастин",
+      "id": "suprstin-01"
+    },
+    {
+      "category": "antigystaminic",
+      "name": "L-цет",
+      "id": "lcet-01"
+    },
+    {
+      "category": "antigystaminic",
+      "name": "Еріус",
+      "id": "erius-01"
+    },
+    {
+      "category": "inhibitAPF",
+      "name": "Еналаприл",
+      "id": "enalapril-01"
+    },
+    {
+      "category": "inhibitAPF",
+      "name": "Лізиноприл",
+      "id": "lizinopril-01"
+    },
+    {
+      "category": "inhibitAPF",
+      "name": "Енап",
+      "id": "enap-01"
+    },
+    {
+      "category": "inhibitAPF",
+      "name": "Каптоприл",
+      "id": "kaptopril-01"
+    },
+    {
+      "category": "inhibitAPF",
+      "name": "Берліприл",
+      "id": "berlipril-01"
+    },
+    {
+      "category": "inhibitAPF",
+      "name": "Еналаприл-Здоров'я",
+      "id": "enalapril-zd-01"
+    },
+    {
+      "category": "betablockators",
+      "name": "Бісопролол-КВ",
+      "id": "bisoprolol-kw-01"
+    },
+    {
+      "category": "betablockators",
+      "name": "Бісопролол-Тева",
+      "id": "bisoprolol-teva-01"
+    },
+    {
+      "category": "betablockators",
+      "name": "Небілет",
+      "id": "nebilet-01"
+    },
+    {
+      "category": "betablockators",
+      "name": "Небівал",
+      "id": "nebival-01"
+    },
+    {
+      "category": "betablockators",
+      "name": "Бісопрол",
+      "id": "bisoprol-01"
+    },
+    {
+      "category": "betablockators",
+      "name": "Бісопролол-Сандоз",
+      "id": "bisoprolol-sandoz-01"
+    },
+    {
+      "category": "betablockators",
+      "name": "Карведілол-Сандоз",
+      "id": "karvedilol-sandoz-01"
+    },
+    {
+      "category": "betablockators",
+      "name": "Метопролол",
+      "id": "metoprolol-01"
+    },
+    {
+      "category": "betablockators",
+      "name": "Атенолол-Астрафарм",
+      "id": "atenolol-astrafarm-01"
+    },
+    {
+      "category": "betablockators",
+      "name": "Бетак",
+      "id": "betak-01"
+    },
+    {
+      "category": "inhib-proton-acid",
+      "name": "Омепразол ",
+      "id": "omeprazol-01"
+    },
+    {
+      "category": "inhib-proton-acid",
+      "name": "Рабепразол ",
+      "id": "rabeprazol-01"
+    },
+    {
+      "category": "inhib-proton-acid",
+      "name": "Пантопразол ",
+      "id": "pantoprazol-01"
+    },
+    {
+      "category": "inhib-proton-acid",
+      "name": "Езомепразол",
+      "id": "ezomeprazol-01"
+    },
+    {
+      "category": "inhib-proton-acid",
+      "name": "Омез",
+      "id": "omez-01"
+    },
+    {
+      "category": "inhib-h2-hyst",
+      "name": "Ранітидин",
+      "id": "ranitidin-01"
+    },
+    {
+      "category": "inhib-h2-hyst",
+      "name": "Фамотидин",
+      "id": "famotidin-01"
+    },
+    {
+      "category": "other-antigastric-medicines",
+      "name": "Гавіскон",
+      "id": "gaviskon-01"
+    },
+    {
+      "category": "other-antigastric-medicines",
+      "name": "Ренні",
+      "id": "renni-01"
+    },
+    {
+      "category": "other-antigastric-medicines",
+      "name": "Де-нол",
+      "id": "de-nol-01"
+    },
+    {
+      "category": "hepatoprotectors",
+      "name": "Карсіл",
+      "id": "karsil-01"
+    },
+    {
+      "category": "hepatoprotectors",
+      "name": "Гепабене",
+      "id": "hepabene-01"
+    },
+    {
+      "category": "hepatoprotectors",
+      "name": "Глутаргін",
+      "id": "glutargin-01"
+    }
   ]
 }
 
