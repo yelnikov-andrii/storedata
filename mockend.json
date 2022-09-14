@@ -1506,7 +1506,7 @@
     {
       "category": "antigystaminic",
       "produced": "Київмедпрепарат (Україна)",
-      "number": "10",
+      "number": "№10",
       "dosage": "10мг",
       "form": "табл.",
       "medgroup": ["Лікування алергії"],
@@ -1517,7 +1517,7 @@
     {
       "category": "antigystaminic",
       "produced": "Фармак (Україна)",
-      "number": "20",
+      "number": "№20",
       "dosage": "0.1г",
       "form": "др.",
       "medgroup": ["Лікування алергії"],
@@ -1528,7 +1528,7 @@
     {
       "category": "antigystaminic",
       "produced": "Д-р Реддис (Індія)",
-      "number": "20",
+      "number": "№20",
       "dosage": "в/о 10мг",
       "form": "табл.",
       "medgroup": ["Лікування алергії"],
@@ -1539,7 +1539,7 @@
     {
       "category": "antigystaminic",
       "produced": "Фармак (Україна)",
-      "number": "10",
+      "number": "№10",
       "form": "табл.",
       "dosage": "в/о 5мг",
       "medgroup": ["Лікування алергії"],
@@ -1550,7 +1550,7 @@
     {
       "category": "antigystaminic",
       "produced": "Егіс (Угорщина)",
-      "number": "20",
+      "number": "№20",
       "dosage": "25мг",
       "form": "табл.",
       "medgroup": ["Лікування алергії"],
@@ -1561,7 +1561,7 @@
     {
       "category": "antigystaminic",
       "produced": "Кусум Хелтхкер (Індія)",
-      "number": "10",
+      "number": "№10",
       "dosage": "5мг",
       "form": "табл.",
       "medgroup": ["Лікування алергії"],
@@ -1571,7 +1571,7 @@
     {
       "category": "antigystaminic",
       "produced": "Шерінг-плау (Бельгія)",
-      "number": "10",
+      "number": "№10",
       "form": "табл.",
       "dosage": "5мг",
       "medgroup": ["Лікування алергії"],
