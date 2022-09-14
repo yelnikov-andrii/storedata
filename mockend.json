@@ -1506,30 +1506,35 @@
     {
       "category": "antigystaminic",
       "medgroup": ["Лікування алергії"],
+      "img": "https://th.bing.com/th/id/OIP.P0_Qk85QnlKbjAdlpoKylwHaHa?pid=ImgDet&rs=1",
       "name": "Лоратадин",
       "id": "Loratadin-01"
     },
     {
       "category": "antigystaminic",
       "medgroup": ["Лікування алергії"],
+      "img": "https://th.bing.com/th/id/R.d477da7e33a7a5eb7b4922c70d9eb626?rik=czGoUpSyKewuWA&pid=ImgRaw&r=0",
       "name": "Діазолін",
       "id": "diazolin-01"
     },
     {
       "category": "antigystaminic",
       "medgroup": ["Лікування алергії"],
+      "img": "https://th.bing.com/th/id/R.1800cb85efad02f7cef3ce8936f8bbaa?rik=69CWqFkWz3kWCw&pid=ImgRaw&r=0",
       "name": "Цетрин",
       "id": "cetrin-01"
     },
     {
       "category": "antigystaminic",
       "medgroup": ["Лікування алергії"],
+      "url": "https://th.bing.com/th/id/R.9820a4b98ce3d8641ec7e52e8eff7be8?rik=G%2bQmt836VoJ32Q&pid=ImgRaw&r=0",
       "name": "Едем",
       "id": "edem-01"
     },
     {
       "category": "antigystaminic",
       "medgroup": ["Лікування алергії"],
+      "img": "https://m.apteka911.ua/content/shop/products/1019/photos/7482-1019-mid-800x800-bbf8.jpg",
       "name": "Супрастин",
       "id": "suprstin-01"
     },
