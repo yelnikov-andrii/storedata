@@ -1505,183 +1505,231 @@
   "medicines": [
     {
       "category": "antigystaminic",
+      "medgroup": ["Лікування алергії"],
       "name": "Лоратадин",
       "id": "Loratadin-01"
     },
     {
       "category": "antigystaminic",
+      "medgroup": ["Лікування алергії"],
       "name": "Діазолін",
       "id": "diazolin-01"
     },
     {
       "category": "antigystaminic",
+      "medgroup": ["Лікування алергії"],
       "name": "Цетрин",
       "id": "cetrin-01"
     },
     {
       "category": "antigystaminic",
+      "medgroup": ["Лікування алергії"],
       "name": "Едем",
       "id": "edem-01"
     },
     {
       "category": "antigystaminic",
+      "medgroup": ["Лікування алергії"],
       "name": "Супрастин",
       "id": "suprstin-01"
     },
     {
       "category": "antigystaminic",
+      "medgroup": ["Лікування алергії"],
       "name": "L-цет",
       "id": "lcet-01"
     },
     {
       "category": "antigystaminic",
+      "medgroup": ["Лікування алергії"],
       "name": "Еріус",
       "id": "erius-01"
     },
     {
       "category": "inhibitAPF",
+      "medgroup": ["Серцево-судинні захворювання"],
       "name": "Еналаприл",
       "id": "enalapril-01"
     },
     {
       "category": "inhibitAPF",
+      "medgroup": ["Серцево-судинні захворювання"],
       "name": "Лізиноприл",
       "id": "lizinopril-01"
     },
     {
       "category": "inhibitAPF",
+      "medgroup": ["Серцево-судинні захворювання"],
       "name": "Енап",
       "id": "enap-01"
     },
     {
       "category": "inhibitAPF",
+      "medgroup": ["Серцево-судинні захворювання"],
       "name": "Каптоприл",
       "id": "kaptopril-01"
     },
     {
       "category": "inhibitAPF",
+      "medgroup": ["Серцево-судинні захворювання"],
       "name": "Берліприл",
       "id": "berlipril-01"
     },
     {
       "category": "inhibitAPF",
+      "medgroup": ["Серцево-судинні захворювання"],
       "name": "Еналаприл-Здоров'я",
       "id": "enalapril-zd-01"
     },
     {
       "category": "betablockators",
+      "medgroup": ["Серцево-судинні захворювання"],
       "name": "Бісопролол-КВ",
       "id": "bisoprolol-kw-01"
     },
     {
       "category": "betablockators",
+      "medgroup": ["Серцево-судинні захворювання"],
       "name": "Бісопролол-Тева",
       "id": "bisoprolol-teva-01"
     },
     {
       "category": "betablockators",
+      "medgroup": ["Серцево-судинні захворювання"],
       "name": "Небілет",
       "id": "nebilet-01"
     },
     {
       "category": "betablockators",
+      "medgroup": ["Серцево-судинні захворювання"],
       "name": "Небівал",
       "id": "nebival-01"
     },
     {
       "category": "betablockators",
+      "medgroup": ["Серцево-судинні захворювання"],
       "name": "Бісопрол",
       "id": "bisoprol-01"
     },
     {
       "category": "betablockators",
+      "medgroup": ["Серцево-судинні захворювання"],
       "name": "Бісопролол-Сандоз",
       "id": "bisoprolol-sandoz-01"
     },
     {
       "category": "betablockators",
+      "medgroup": ["Серцево-судинні захворювання"],
       "name": "Карведілол-Сандоз",
       "id": "karvedilol-sandoz-01"
     },
     {
       "category": "betablockators",
+      "medgroup": ["Серцево-судинні захворювання"],
       "name": "Метопролол",
       "id": "metoprolol-01"
     },
     {
       "category": "betablockators",
+      "medgroup": ["Серцево-судинні захворювання"],
       "name": "Атенолол-Астрафарм",
       "id": "atenolol-astrafarm-01"
     },
     {
       "category": "betablockators",
+      "medgroup": ["Серцево-судинні захворювання"],
       "name": "Бетак",
       "id": "betak-01"
     },
     {
       "category": "inhib-proton-acid",
+      "medgroup": ["Травний тракт"],
       "name": "Омепразол ",
       "id": "omeprazol-01"
     },
     {
       "category": "inhib-proton-acid",
+      "medgroup": ["Травний тракт"],
       "name": "Рабепразол ",
       "id": "rabeprazol-01"
     },
     {
       "category": "inhib-proton-acid",
+      "medgroup": ["Травний тракт"],
       "name": "Пантопразол ",
       "id": "pantoprazol-01"
     },
     {
       "category": "inhib-proton-acid",
+      "medgroup": ["Травний тракт"],
       "name": "Езомепразол",
       "id": "ezomeprazol-01"
     },
     {
       "category": "inhib-proton-acid",
+      "medgroup": ["Травний тракт"],
       "name": "Омез",
       "id": "omez-01"
     },
     {
       "category": "inhib-h2-hyst",
+      "medgroup": ["Травний тракт"],
       "name": "Ранітидин",
       "id": "ranitidin-01"
     },
     {
       "category": "inhib-h2-hyst",
+      "medgroup": ["Травний тракт"],
       "name": "Фамотидин",
       "id": "famotidin-01"
     },
     {
       "category": "other-antigastric-medicines",
+      "medgroup": ["Травний тракт"],
       "name": "Гавіскон",
       "id": "gaviskon-01"
     },
     {
       "category": "other-antigastric-medicines",
+      "medgroup": ["Травний тракт"],
       "name": "Ренні",
       "id": "renni-01"
     },
     {
       "category": "other-antigastric-medicines",
+      "medgroup": ["Травний тракт"],
       "name": "Де-нол",
       "id": "de-nol-01"
     },
     {
       "category": "hepatoprotectors",
+      "medgroup": ["Травний тракт"],
       "name": "Карсіл",
       "id": "karsil-01"
     },
     {
       "category": "hepatoprotectors",
+      "medgroup": ["Травний тракт"],
       "name": "Гепабене",
       "id": "hepabene-01"
     },
     {
       "category": "hepatoprotectors",
+      "medgroup": ["Травний тракт"],
       "name": "Глутаргін",
       "id": "glutargin-01"
+    },
+    {
+      "category": "anticough",
+      "medgroup": ["Застуда і грип"],
+      "name": "Амброксол",
+      "id": "ambroksol-01"
+    },
+    {
+      "category": "anticough",
+      "medgroup": ["Застуда і грип"],
+      "name": "Бромгексин",
+      "id": "bromhexin-01"
     }
   ]
 }
