@@ -1505,6 +1505,10 @@
   "medicines": [
     {
       "category": "antigystaminic",
+      "produced": "Київмедпрепарат (Україна)",
+      "number": "10",
+      "dosage": "10мг",
+      "form": "табл.",
       "medgroup": ["Лікування алергії"],
       "img": "https://th.bing.com/th/id/OIP.P0_Qk85QnlKbjAdlpoKylwHaHa?pid=ImgDet&rs=1",
       "name": "Лоратадин",
@@ -1512,6 +1516,10 @@
     },
     {
       "category": "antigystaminic",
+      "produced": "Фармак (Україна)",
+      "number": "20",
+      "dosage": "0.1г",
+      "form": "др.",
       "medgroup": ["Лікування алергії"],
       "img": "https://th.bing.com/th/id/R.d477da7e33a7a5eb7b4922c70d9eb626?rik=czGoUpSyKewuWA&pid=ImgRaw&r=0",
       "name": "Діазолін",
@@ -1519,6 +1527,10 @@
     },
     {
       "category": "antigystaminic",
+      "produced": "Д-р Реддис (Індія)",
+      "number": "20",
+      "dosage": "в/о 10мг",
+      "form": "табл.",
       "medgroup": ["Лікування алергії"],
       "img": "https://th.bing.com/th/id/R.1800cb85efad02f7cef3ce8936f8bbaa?rik=69CWqFkWz3kWCw&pid=ImgRaw&r=0",
       "name": "Цетрин",
@@ -1526,13 +1538,21 @@
     },
     {
       "category": "antigystaminic",
+      "produced": "Фармак (Україна)",
+      "number": "10",
+      "form": "табл.",
+      "dosage": "в/о 5мг",
       "medgroup": ["Лікування алергії"],
-      "url": "https://th.bing.com/th/id/R.9820a4b98ce3d8641ec7e52e8eff7be8?rik=G%2bQmt836VoJ32Q&pid=ImgRaw&r=0",
+      "img": "https://th.bing.com/th/id/R.9820a4b98ce3d8641ec7e52e8eff7be8?rik=G%2bQmt836VoJ32Q&pid=ImgRaw&r=0",
       "name": "Едем",
       "id": "edem-01"
     },
     {
       "category": "antigystaminic",
+      "produced": "Егіс (Угорщина)",
+      "number": "20",
+      "dosage": "25мг",
+      "form": "табл.",
       "medgroup": ["Лікування алергії"],
       "img": "https://m.apteka911.ua/content/shop/products/1019/photos/7482-1019-mid-800x800-bbf8.jpg",
       "name": "Супрастин",
@@ -1540,12 +1560,20 @@
     },
     {
       "category": "antigystaminic",
+      "produced": "Кусум Хелтхкер (Індія)",
+      "number": "10",
+      "dosage": "5мг",
+      "form": "табл.",
       "medgroup": ["Лікування алергії"],
       "name": "L-цет",
       "id": "lcet-01"
     },
     {
       "category": "antigystaminic",
+      "produced": "Шерінг-плау (Бельгія)",
+      "number": "10",
+      "form": "табл.",
+      "dosage": "5мг",
       "medgroup": ["Лікування алергії"],
       "name": "Еріус",
       "id": "erius-01"
