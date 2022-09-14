@@ -1507,6 +1507,7 @@
       "category": "antigystaminic",
       "produced": "Київмедпрепарат (Україна)",
       "number": "№10",
+      "price": "18.10 грн.",
       "dosage": "10мг",
       "form": "табл.",
       "medgroup": ["Лікування алергії"],
@@ -1517,6 +1518,7 @@
     {
       "category": "antigystaminic",
       "produced": "Фармак (Україна)",
+      "price": "30.40 грн.",
       "number": "№20",
       "dosage": "0.1г",
       "form": "др.",
@@ -1528,6 +1530,7 @@
     {
       "category": "antigystaminic",
       "produced": "Д-р Реддис (Індія)",
+      "price": "109.25 грн.",
       "number": "№20",
       "dosage": "в/о 10мг",
       "form": "табл.",
@@ -1539,6 +1542,7 @@
     {
       "category": "antigystaminic",
       "produced": "Фармак (Україна)",
+      "price": "71.27 грн.",
       "number": "№10",
       "form": "табл.",
       "dosage": "в/о 5мг",
@@ -1550,6 +1554,7 @@
     {
       "category": "antigystaminic",
       "produced": "Егіс (Угорщина)",
+      "price": "105.67 грн.",
       "number": "№20",
       "dosage": "25мг",
       "form": "табл.",
@@ -1561,6 +1566,7 @@
     {
       "category": "antigystaminic",
       "produced": "Кусум Хелтхкер (Індія)",
+      "price": "51.66 грн.",
       "number": "№10",
       "dosage": "5мг",
       "form": "табл.",
@@ -1571,6 +1577,7 @@
     {
       "category": "antigystaminic",
       "produced": "Шерінг-плау (Бельгія)",
+      "price": "317.41 грн.",
       "number": "№10",
       "form": "табл.",
       "dosage": "5мг",
