@@ -1600,6 +1600,18 @@
       "id": "Рінгера р-н-01"
     },
     {
+      "category": "vitamins",
+      "produced": "Вітаміни (Україна)",
+      "img": "https://m.apteka911.ua/content/shop/products/26307/photos/21044-26307-mid-800x800-3ab5.jpg",
+      "price": "10.02 грн.",
+      "number": "№50",
+      "form": "табл.",
+      "dosage": "1 мг",
+      "medgroup": ["Кровотворення та кров", "Фолієва кислота", "Вітаміни та добавки", "Вітаміни"],
+      "name": "Фолієва к-та",
+      "id": "Фолієва к-та-02"
+    },
+    {
       "category": "hemostatic",
       "produced": "ДНЦЛЗ (Україна)",
       "img": "https://m.apteka911.ua/content/shop/products/12941/photos/46411-12941-mid-800x800-bf7d.jpg",
@@ -2237,6 +2249,30 @@
     },
     {
       "category": "anticough",
+      "produced": "Тернофарм (Україна)",
+      "img": "https://m.apteka911.ua/content/shop/products/342/photos/1401-342-mid-800x800-9099.jpg",
+      "price": "24.39 грн.",
+      "number": "",
+      "form": "орал.",
+      "dosage": "фл. 25мл",
+      "medgroup": ["Застуда і грип", "Від кашлю", "Відхаркувальні", "Від сухого кашлю"],
+      "name": "Нашатирно-анісові крап.",
+      "id": "Нашатирно-анісові крап.-01"
+    },
+    {
+      "category": "anticough",
+      "produced": "Тернофарм (Україна)",
+      "img": "https://m.apteka911.ua/content/shop/products/46263/photos/30955-46263-mid-800x800-1bd3.jpg",
+      "price": "23.15 грн.",
+      "number": "",
+      "form": "рідина д/інг. фл.",
+      "dosage": "40 мл.",
+      "medgroup": ["Застуда і грип", "Від кашлю", "Відхаркувальні", "Від сухого кашлю"],
+      "name": "Інгалін",
+      "id": "Інгалін-01"
+    },
+    {
+      "category": "anticough",
       "produced": "Віола (Україна)",
       "img": "https://m.apteka911.ua/content/shop/products/32446/photos/37077-32446-mid-800x800-ad51.jpg",
       "price": "21.78 грн.",
@@ -2249,6 +2285,66 @@
     },
     {
       "category": "anticough",
+      "produced": "Віола (Україна)",
+      "img": "https://m.apteka911.ua/content/shop/products/27137/photos/70309-27137-mid-800x800-52d9.jpg",
+      "price": "25.94 грн.",
+      "number": "50 г",
+      "form": " ",
+      "dosage": "",
+      "medgroup": ["Застуда і грип", "Від кашлю", "Відхаркувальні", "Від сухого кашлю"],
+      "name": "Подорожника великого листя",
+      "id": "Подорожника великого листя-01"
+    },
+    {
+      "category": "anticough",
+      "produced": "Ліктрави (Україна)",
+      "img": "https://m.apteka911.ua/content/shop/products/444/photos/2050-444-mid-800x800-55ea.jpg",
+      "price": "24.86 грн.",
+      "number": "50 г",
+      "form": " ",
+      "dosage": "",
+      "medgroup": ["Застуда і грип", "Від кашлю", "Відхаркувальні", "Від сухого кашлю"],
+      "name": "Грудний збір №1",
+      "id": "Грудний збір №1-01"
+    },
+    {
+      "category": "anticough",
+      "produced": "Віола (Україна)",
+      "img": "https://m.apteka911.ua/content/shop/products/45319/photos/192094-45319-mid-800x800-1252.jpg",
+      "price": "24.43 грн.",
+      "number": "50 г",
+      "form": "пачка ",
+      "dosage": "",
+      "medgroup": ["Застуда і грип", "Від кашлю", "Відхаркувальні", "Від сухого кашлю"],
+      "name": "Фіалки трава",
+      "id": "Фіалки трава-03"
+    },
+    {
+      "category": "anticough",
+      "produced": "Ліктрави (Україна)",
+      "img": "https://m.apteka911.ua/content/shop/products/9643/photos/79983-9643-mid-800x800-730a.jpg",
+      "price": "23.12 грн.",
+      "number": "№20",
+      "form": "фільтр-пакет",
+      "dosage": "1,5г",
+      "medgroup": ["Застуда і грип", "Від кашлю", "Відхаркувальні", "Від сухого кашлю"],
+      "name": "Фіалки трава",
+      "id": "Фіалки трава-02"
+    },
+    {
+      "category": "anticough",
+      "produced": "Ліктрави (Україна)",
+      "img": "https://m.apteka911.ua/content/shop/products/45752/photos/189912-45752-mid-800x800-5fea.jpg",
+      "price": "22.40 грн.",
+      "number": "",
+      "form": "",
+      "dosage": "пачка 50 г.",
+      "medgroup": ["Застуда і грип", "Від кашлю", "Відхаркувальні", "Від сухого кашлю"],
+      "name": "Фіалки трава",
+      "id": "Фіалки трава-01"
+    },
+    {
+      "category": "anticough",
       "produced": "Червона зірка (Україна)",
       "img": "https://m.apteka911.ua/content/shop/products/30106/photos/129473-30106-mid-800x800-3f25.jpg",
       "price": "60.54 грн.",
@@ -2258,6 +2354,44 @@
       "medgroup": ["Застуда і грип", "Від кашлю", "Протикашльові"],
       "name": "Амкесол",
       "id": "ameksol-01"
+    },
+    {
+      "category": "anticough",
+      "produced": "Мультіспрей (Україна)",
+      "img": "https://m.apteka911.ua/content/shop/products/228286/photos/572104-228286-mid-800x800-395e.jpg",
+      "price": "155.00 грн.",
+      "number": "фл. 200мл Solution Pharm",
+      "form": "сироп Ісландский мох",
+      "dosage": "",
+      "medgroup": ["Застуда і грип", "Від кашлю", "Протикашльові"],
+      "name": "ГербіПлюс",
+      "bad": true,
+      "id": "ГербіПлюс-01"
+    },
+    {
+      "category": "anticough",
+      "produced": "Мультіспрей (Україна)",
+      "img": "https://m.apteka911.ua/content/shop/products/221656/photos/571275-221656-mid-800x800-ea5f.jpg",
+      "price": "150.00 грн.",
+      "number": "фл. 200мл",
+      "form": "сироп класичний",
+      "dosage": "",
+      "medgroup": ["Застуда і грип", "Від кашлю", "Протикашльові"],
+      "name": "Ісландский мох",
+      "bad": true,
+      "id": "Ісландский мох-01"
+    },
+    {
+      "category": "anticough",
+      "produced": "Бофур Іпсен (Франція)",
+      "img": "https://m.apteka911.ua/content/shop/products/381/photos/1555-381-mid-800x800-1785.jpg",
+      "price": "145.38 грн.",
+      "number": "фл. 125мл",
+      "form": "сироп",
+      "dosage": "10мг/5мл",
+      "medgroup": ["Застуда і грип", "Від кашлю", "Протикашльові"],
+      "name": "Пакселадин",
+      "id": "Пакселадин-01"
     },
     {
       "category": "anticough",
@@ -2298,6 +2432,30 @@
     {
       "category": "anticough",
       "produced": "ГСК Консьюмер Хелскер (Швейцарія)",
+      "img": "https://m.apteka911.ua/content/shop/products/457/photos/2095-457-mid-800x800-efd8.jpg",
+      "price": "242.26 грн.",
+      "number": "фл. 200мл",
+      "form": "сироп",
+      "dosage": "1,5мг/мл",
+      "medgroup": ["Застуда і грип", "Від кашлю", "Протикашльові"],
+      "name": "Синекод",
+      "id": "Синекод-03"
+    },
+    {
+      "category": "anticough",
+      "produced": "ГСК Консьюмер Хелскер (Швейцарія)",
+      "img": "https://m.apteka911.ua/content/shop/products/15242/photos/105419-15242-mid-800x800-49f0.jpg",
+      "price": "155.36 грн.",
+      "number": "фл. 100мл",
+      "form": "сироп",
+      "dosage": "1,5мг/мл",
+      "medgroup": ["Застуда і грип", "Від кашлю", "Протикашльові"],
+      "name": "Синекод",
+      "id": "Синекод-02"
+    },
+    {
+      "category": "anticough",
+      "produced": "ГСК Консьюмер Хелскер (Швейцарія)",
       "img": "https://m.apteka911.ua/content/shop/products/456/photos/2094-456-mid-800x800-c803.jpg",
       "price": "123.36 грн.",
       "number": "фл. 20мл",
@@ -2318,6 +2476,54 @@
       "medgroup": ["Застуда і грип", "Від кашлю", "Протикашльові"],
       "name": "Евкабал бальзам С",
       "id": "Евкабал бальзам С-01"
+    },
+    {
+      "category": "anticough",
+      "produced": "Фармак (Україна)",
+      "img": "https://m.apteka911.ua/content/shop/products/5946/photos/51602-5946-mid-800x800-8f85.jpg",
+      "price": "138.53 грн.",
+      "number": "фл. 25г",
+      "form": "краплі орал.",
+      "dosage": "",
+      "medgroup": ["Застуда і грип", "Від кашлю", "Протикашльові"],
+      "name": "Пектолван Стоп",
+      "id": "Пектолван -01"
+    },
+    {
+      "category": "anticough",
+      "produced": "Софарма (Болгарія)",
+      "img": "https://m.apteka911.ua/content/shop/products/41115/photos/168325-41115-mid-800x800-aa90.jpg",
+      "price": "141.41 грн.",
+      "number": "№20",
+      "form": "табл. в/о",
+      "dosage": "40мг",
+      "medgroup": ["Застуда і грип", "Від кашлю", "Протикашльові"],
+      "name": "Бронхолітин Таб",
+      "id": "Бронхолітин -02"
+    },
+    {
+      "category": "anticough",
+      "produced": "Софарма (Болгарія)",
+      "img": "https://m.apteka911.ua/content/shop/products/67/photos/362-67-mid-800x800-6b09.jpg",
+      "price": "134.59 грн.",
+      "number": "фл. 125г",
+      "form": "сироп",
+      "dosage": "",
+      "medgroup": ["Застуда і грип", "Від кашлю", "Протикашльові"],
+      "name": "Бронхолітин ",
+      "id": "Бронхолітин -01"
+    },
+    {
+      "category": "anticough",
+      "produced": "Тева (Польша)",
+      "img": "https://m.apteka911.ua/content/shop/products/68841/photos/307567-68841-mid-800x800-0755.jpg",
+      "price": "132.53 грн.",
+      "number": "№20",
+      "form": "табл.",
+      "dosage": "",
+      "medgroup": ["Застуда і грип", "Від кашлю", "Протикашльові"],
+      "name": "Стоптусин-Тева",
+      "id": "Стоптусин-Тева-03"
     },
     {
       "category": "anticough",
